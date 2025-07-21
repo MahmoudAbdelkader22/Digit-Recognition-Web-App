@@ -1,6 +1,5 @@
-
 streamlit==1.33.0
 numpy==1.26.4
-Pillow==10.3.0
-tensorflow==2.15.0
-
+Pillow
+tensorflow==2.11.0
+streamlit-drawable-canvas
